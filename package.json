@@ -3,8 +3,20 @@
   "displayName": "Neon Glow Theme",
   "description": "A dark neon color theme that will make your code glow",
   "version": "0.0.1",
+  "publisher": "NickScialli",
+  "keywords": [
+    "neon",
+    "dark",
+    "theme",
+    "pink",
+    "blue"
+  ],
+  "license": "MIT",
   "engines": {
     "vscode": "^1.53.0"
+  },
+  "repository": {
+    "url": "https://github.com/nas5w/neon-glow-theme"
   },
   "categories": [
     "Themes"
