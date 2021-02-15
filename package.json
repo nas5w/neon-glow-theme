@@ -1,0 +1,21 @@
+{
+  "name": "neon-glow-theme",
+  "displayName": "Neon Glow Theme",
+  "description": "A dark neon color theme that will make your code glow",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Glow Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Glow Theme-color-theme.json"
+      }
+    ]
+  }
+}
